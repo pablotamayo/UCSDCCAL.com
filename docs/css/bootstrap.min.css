@@ -8488,7 +8488,7 @@ a.text-dark:hover {
 }
 
 
-@media (max-width: 1400px) and (min-width: 1001px) {
+@media (max-width: 1600px) and (min-width: 1001px) {
     .padding-team {
       padding-left: 4%;
       padding-right: 4%;
@@ -8496,7 +8496,7 @@ a.text-dark:hover {
 }
 }
 
-@media (min-width: 1401px) {
+@media (min-width: 1601px) {
     .padding-team {
       padding-left: 9%;
       padding-right: 9%;
