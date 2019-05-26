@@ -8478,13 +8478,23 @@ a.text-dark:hover {
     justify-content: center;
 }
 
-@media (max-width: 1400px) {
+
+@media (max-width: 1000px) {
     .padding-team {
-      padding-left: 6%;
-      padding-right: 6%;
+      padding-left: 2%;
+      padding-right: 2%;
+      padding-bottom: 40px;
+    }
+}
+
+
+@media (max-width: 1400px) and (min-width: 1001px) {
+    .padding-team {
+      padding-left: 4%;
+      padding-right: 4%;
       padding-bottom: 40px;
 }
-  }
+}
 
 @media (min-width: 1401px) {
     .padding-team {
