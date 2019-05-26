@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Cancer Analysis Laboratory on UCSD CCAL</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Computational Cancer Analysis Laboratory on UCSD CCAL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>example post</title>
+      <link>http://example.org/2017/11/29/example-post/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/2017/11/29/example-post/</guid>
+      <description>Awesome blog post</description>
+    </item>
+    
+    <item>
+      <title>A Plain Markdown Post</title>
+      <link>http://example.org/2016/12/30/a-plain-markdown-post/</link>
+      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
+      
+      <guid>http://example.org/2016/12/30/a-plain-markdown-post/</guid>
+      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
+ You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
+    </item>
+    
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>http://example.org/2015/01/01/lorem-ipsum/</link>
+      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
+      
+      <guid>http://example.org/2015/01/01/lorem-ipsum/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/contact_us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/contact_us/</guid>
+      <description> Contact Us  --           Submit      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/profile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/profile/</guid>
+      <description> Follow      About me An artist of considerable range, Ryan — the name taken by Melbourne-raised, Brooklyn-based Nick Murphy — writes, performs and records all of his own music, giving it a warm, intimate feel with a solid groove structure. An artist of considerable range. My Portfolio 2017  --   2016  --   2015  --   Older  --                      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/template/</guid>
+      <description>Text!!!!</description>
+    </item>
+    
+    <item>
+      <title>CTD2</title>
+      <link>http://example.org/ctd2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/ctd2/</guid>
+      <description>Designed by . Coded by . --          -- Basic Elements Buttons Pick your style
+Default Round  With Icon    Simple   Pick your size
+Small Regular Large   Pick your color
+Default Primary Info Success Warning Danger Neutral   Links Default Primary Info Success Warning Danger    Inputs Form Controls</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://example.org/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/resources/</guid>
+      <description>Now UI Kit. A beautiful Bootstrap 4 UI kit. Yours free.  Designed by . Coded by . --          Basic Elements Buttons Pick your style
+Default Round  With Icon    Simple   Pick your size
+Small Regular Large   Pick your color
+Default Primary Info Success Warning Danger Neutral   Links Default Primary Info Success Warning Danger    Inputs Form Controls</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>http://example.org/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/</guid>
+      <description> 2018 2017 2016 Older See All Publications    2018 Proteomics, Post-translational Modifications, and Integrative Analyses Reveal Molecular Heterogeneity within Medulloblastoma Subgroups Overcoming Resistance to Dual Innate Immune and MEK Inhibition Downstream of KRAS Assembly and activation of the Hippo signalome by FAT1 tumor suppressor Systematic Evaluation of Molecular Networks for Discovery of Disease Genes   2017 Decomposing Oncogenic Transcriptional Signatures to Generate Maps of Divergent Cellular States Reproduce Analysis The GenePattern Notebook Environment Use tool Dependency of a therapy-resistant state of cancer cells on a lipid peroxidase pathway   2016 High-throughput Phenotyping of Lung Cancer Somatic Mutations DiSCoVERing Innovative Therapies for Rare Tumors: Combining Genetically Accurate Disease Models with In Silico Analysis to Identify Novel Therapeutic Targets Reproduce Analysis   Older Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles Use tool  </description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>http://example.org/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/team/</guid>
+      <description> -- By Year  --  In addition to the people below, we are grateful for our close collaborations with numerous labs in Moores Cancer Center as well as on UCSD main campus.  Pablo Tamayo
+  Kwat Medetgul-Ernar
+  William Kim
+  Katharine Niklason
+  Max Xu
+  Stephanie Ting
+     </description>
+    </item>
+    
+  </channel>
+</rss>

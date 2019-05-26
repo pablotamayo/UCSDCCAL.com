@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  {{partial "head" . }}
+
+	<body class="{{ .Params.class | default "profile-page" }} sidebar-collapse">
+    {{ partial "nav" . }}
+
+    <div class="{{ .Params.wrapper | default "wrapper" }}">
+
+        <div class="page-header {{ .Params.headerstyle | default "page-header-small"}}" >
+            <div class="page-header-image" data-parallax="true" style="background-image: url({{ (.Param "background")  | (default "img/moores.png" | absURL) }});">
+            </div>
+
+            {{ block "title" . }}
+              <p>This is the baseof title</p>
+            {{ end }}
+
+        </div>
+
+        <div class="{{ .Params.section | default "section"}}">
+            <!-- <div class="container"> -->
+
+            {{ block "body" . }}
+              <p>This is text in the body block of baseof</p>
+	          {{ end }}
+
+        </div>
+    </div>
+    
+      {{ partial "footer" . }}
+
+  </body>
+
+{{partial "javascript" . }}
+
+</html>

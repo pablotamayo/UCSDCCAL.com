@@ -1,0 +1,48 @@
+img{
+    max-width: 100%;
+    border-radius: 1px;
+}
+.img-raised{
+    box-shadow: $box-shadow-raised;
+}
+
+.publication-journal-image{
+    float: left;
+    padding-bottom: 20px;
+}
+
+.cancer-cell{
+    height: 80px;
+    width: 140px;
+    padding-right: 60px;
+}
+
+.nature-communications{
+    height: 60px;
+    width: 140px;
+    padding-right: 20px;
+}
+
+.cell-systems{
+    height: 45px;
+    width: 140px;
+    padding-right: 20px;
+}
+
+.nature{
+    height: 60px;
+    width: 140px;
+    padding-right: 30px;
+}
+
+.clinical-cancer-research{
+    height: 100px;
+    width: 140px;
+    padding-right: 30px;
+}
+
+.pnas{
+    height: 60px;
+    width: 140px;
+    padding-right: 40px;
+}

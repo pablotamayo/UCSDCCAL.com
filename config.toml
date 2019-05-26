@@ -1,0 +1,59 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+theme = "hugo-now-ui"
+title = "UCSD CCAL"
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+publishDir = "docs"
+themesDir = "themes"
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Resources"
+    url = "/resources/"
+    pre = "<i class='now-ui-icons design_app'></i>"
+    weight = 1
+[[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    pre = "<i class='now-ui-icons files_paper'></i>"
+    weight = 2
+[[menu.main]]
+    name = "Team"
+    url = "/team/"
+    pre = "<i class='now-ui-icons users_single-02'></i>"
+    weight = 3
+[[menu.main]]
+    name = "Contact Us"
+    pre = "<i class='now-ui-icons ui-2_chat-round'></i>"
+    url = "/contact_us/"
+    weight = 4
+
+[[menu.footer]]
+    identifier = "github"
+    pre = "<i class='fa fa-github'></i>"
+    url = "https://github.com/UCSD-CCAL"
+    weight = 1
+[[menu.footer]]
+    identifier = "copyright"
+    name = "MIT"
+    pre = "<i class='fa fa-balance-scale'></i>"
+    url = "https://spdx.org/licenses/MIT"
+    weight = 2
+
+
+[params]
+    background = "/img/collaboration.jpg"
+    tint = "orange"
+    custom_css = ["css/highlight.min.css"]
+    custom_js = []
+    date_format = "Mon, Jan 2, 2006"
+    description = "The Computational Cancer Analysis Laboratory website."
+    logo = "/img/ccal_logo_transparent_white.png"
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.10.0"
+    highlightCDN = "//cdn.bootcss.com"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"

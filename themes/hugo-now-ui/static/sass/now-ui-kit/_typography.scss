@@ -1,0 +1,253 @@
+button,
+input,
+optgroup,
+select,
+textarea{
+    font-family: $sans-serif-family;
+}
+h1,h2,h3,h4,h5,h6{
+    font-weight: $font-weight-normal;
+}
+
+small{
+    font-size: 60%;
+}
+
+a{
+    color: $primary-color;
+    &:hover,
+    &:focus{
+        color: $primary-color;
+    }
+}
+h1, .h1 {
+    font-size: $font-size-h1;
+    line-height: 1.15;
+    margin-bottom: $margin-base-vertical * 2;
+
+    small{
+        font-weight: $font-weight-bold;
+        text-transform: uppercase;
+        opacity: .8;
+    }
+}
+h2, .h2{
+    font-size: $font-size-h2;
+    margin-bottom: $margin-base-vertical * 2;
+}
+h3, .h3{
+    font-size: $font-size-h3;
+    margin-bottom: $margin-base-vertical * 2;
+    line-height: 1.4em;
+    padding-top: 30px;
+}
+h4, .h4{
+    font-size: $font-size-h4;
+    line-height: 1.45em;
+    margin-top: $margin-base-vertical * 2;
+    margin-bottom: $margin-base-vertical;
+
+    & + .category,
+    &.title + .category{
+        margin-top: -10px;
+    }
+}
+h5, .h5 {
+    font-size: $font-size-h5;
+    line-height: 1.4em;
+    margin-bottom: 15px;
+}
+h6, .h6{
+    font-size: $font-size-h6;
+    font-weight: $font-weight-bold;
+    // text-transform: uppercase;
+}
+p{
+    line-height: 1.61em;
+
+    .description &,
+    &.description{
+        font-size: 1.17em;
+    }
+}
+
+.title{
+    font-weight: $font-weight-bold;
+
+    &.title-up{
+        text-transform: uppercase;
+
+        a{
+            color: $black-color;
+            text-decoration: none;
+        }
+    }
+    & + .category{
+        margin-top: -25px;
+    }
+}
+
+.description,
+.card-description,
+.footer-big p{
+    color: $black-color;
+    font-weight: $font-weight-light;
+}
+.category{
+    text-transform: uppercase;
+    font-weight: $font-weight-bold;
+    color: $dark-gray;
+}
+.text-primary {
+  color: $brand-primary !important;
+}
+.text-info {
+  color: $brand-info !important;
+}
+.text-success {
+  color: $brand-success !important;
+}
+.text-warning {
+  color: $brand-warning !important;
+}
+.text-danger {
+  color: $brand-danger !important;
+}
+.text-black{
+  color: $light-black;
+}
+
+.blockquote{
+    border-left: none;
+    border: 1px solid $default-color;
+    padding: 20px;
+    font-size: $font-size-blockquote;
+    line-height: 1.8;
+
+    small{
+        color: $default-color;
+        font-size: $font-size-small;
+        text-transform: uppercase;
+    }
+
+    &.blockquote-primary{
+        border-color: $primary-color;
+        color: $primary-color;
+
+        small{
+            color: $primary-color;
+        }
+    }
+
+    &.blockquote-danger{
+        border-color: $danger-color;
+        color: $danger-color;
+
+        small{
+            color: $danger-color;
+        }
+    }
+
+    &.blockquote-white{
+        border-color: $opacity-8;
+        color: $white-color;
+
+        small{
+            color: $opacity-8;
+        }
+    }
+}
+
+
+.homepage-title {
+    text-align: center;
+    font-weight: 700;
+    line-height: 1.5em;
+    padding: 30px 0;
+    margin-bottom: 0px !important;
+}
+
+.homepage-mission {
+    text-align: center;
+    font-weight: 400;
+    font-size: 120%;
+    line-height: 1.8em;
+    padding: 30px 0;
+}
+
+
+.resources-names {
+    color: $warning-color;
+    font-weight: $font-weight-bold;
+    max-width: 250px;
+    margin: auto;
+}
+
+.workflows-description {
+  max-width: 700px;
+  margin: 20px auto 20px;
+  font-size: 180%;
+}
+
+.workflow-name {
+  color: $success-color;
+  margin-bottom: 1rem !important;
+  font-weight: $font-weight-normal;
+  border: $primary-color 2px;
+}
+
+.workflow-description {
+  font-size: 120% !important;
+  font-weight: 300 !important;
+  padding: 0 60px;
+}
+
+.team-description {
+    max-width: 700px;
+    font-weight: normal;
+    text-align: center;
+    margin: 20px auto 20px;
+}
+
+.team-name{
+    color: $primary-color;
+    margin-bottom: 25px !important;
+    font-weight: $font-weight-bold;
+    font-size: 180%;
+}
+
+.team-name-description{
+    color: $success-color;
+    font-weight: 500 !important;
+    margin-bottom: 12px !important;
+    font-size: 100%;
+    font-weight: normal !important;
+    max-width: 320px;
+}
+
+.thin-text{
+    font-weight: 300;
+}
+
+.year{
+    color: $primary-color;
+    font-weight: $font-weight-bold;
+    padding-top: 180px;
+    padding-bottom: 40px;
+}
+
+.white-text {
+    color: $white-color;
+}
+
+.light-color-text {
+    color: $info-color;
+}
+
+.success-color {
+  color: $success-color;
+}
+
+.publication-title {
+  margin: 15px 0 !important;
+}
