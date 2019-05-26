@@ -50,7 +50,7 @@ themesDir = "themes"
     custom_js = []
     date_format = "Mon, Jan 2, 2006"
     description = "The Computational Cancer Analysis Laboratory website."
-    logo = "/img/ccal_logo_transparent_white.png"
+    logo = "img/ccal_logo_transparent_white.png"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.10.0"
