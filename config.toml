@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://katekraft.github.io/ucsd_ccal_website/"
 languageCode = "en-us"
 theme = "hugo-now-ui"
 title = "UCSD CCAL"
