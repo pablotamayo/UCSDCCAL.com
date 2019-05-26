@@ -8487,16 +8487,23 @@ a.text-dark:hover {
     }
 }
 
-
 @media (max-width: 1600px) and (min-width: 1001px) {
     .padding-team {
       padding-left: 4%;
       padding-right: 4%;
       padding-bottom: 40px;
-}
+    }
 }
 
-@media (min-width: 1601px) {
+@media (max-width: 2400px) and (min-width: 1601px) {\
+    .padding-team {
+      padding-left: 6%;
+      padding-right: 6%;
+      padding-bottom: 40px;
+    }
+}
+
+@media (min-width: 2401px) {
     .padding-team {
       padding-left: 9%;
       padding-right: 9%;
