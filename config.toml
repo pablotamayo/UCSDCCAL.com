@@ -16,18 +16,18 @@ themesDir = "themes"
     weight = 1
 [[menu.main]]
     name = "Publications"
-    url = "/publications/"
+    url = "publications/"
     pre = "<i class='now-ui-icons files_paper'></i>"
     weight = 2
 [[menu.main]]
     name = "Team"
-    url = "/team/"
+    url = "team/"
     pre = "<i class='now-ui-icons users_single-02'></i>"
     weight = 3
 [[menu.main]]
     name = "Contact Us"
     pre = "<i class='now-ui-icons ui-2_chat-round'></i>"
-    url = "/contact_us/"
+    url = "contact_us/"
     weight = 4
 
 [[menu.footer]]
