@@ -2,47 +2,106 @@ img{
     max-width: 100%;
     border-radius: 1px;
 }
+
 .img-raised{
     box-shadow: $box-shadow-raised;
 }
 
+.team-img{
+    padding-top:80px;
+    padding-bottom: 30px;
+}
+
 .publication-journal-image{
     float: left;
-    padding-bottom: 20px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+    height: 260px;
+    width: 300px;
+}
+
+.publication-cover{
+    margin-right: 130px !important;
+    width: 220px !important;
 }
 
 .cancer-cell{
-    height: 80px;
-    width: 140px;
-    padding-right: 60px;
+
 }
 
 .nature-communications{
     height: 60px;
-    width: 140px;
-    padding-right: 20px;
+    width: 150px;
+    padding-right: 30px;
 }
 
 .cell-systems{
-    height: 45px;
-    width: 140px;
-    padding-right: 20px;
+    height: 80px;
+    width: 150px;
+    padding-right: 65px;
 }
 
 .nature{
-    height: 60px;
-    width: 140px;
-    padding-right: 30px;
+    height: 50px;
+    width: 150px;
+    padding-right: 50px;
 }
 
 .clinical-cancer-research{
-    height: 100px;
-    width: 140px;
-    padding-right: 30px;
+    height: 90px;
+    width: 150px;
+    padding-right: 50px;
 }
 
 .pnas{
     height: 60px;
-    width: 140px;
-    padding-right: 40px;
+    width: 150px;
+    padding-right: 50px;
+}
+
+.roles{
+    max-height: 130px;
+    // border: 2px solid $primary-color;
+}
+
+.ctd2-header-image {
+  position: inherit !important;
+  max-height: 110% !important;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+}
+
+.partner-header-image {
+    position: absolute;
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 100%;
+}
+
+.page-header-image-contact-us{
+    max-height: 1200px;
+    background-image: url("img/collaboration.jpg");
+}
+
+.resources-icons {
+    max-width: 110px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.workflow-icon {
+    max-width: 60px;
+    padding: 10px 10px;
+}
+
+.grant-logo {
+  padding-right: 20px !important;
+  max-width: 500px;
+}
+
+.grant-description-logo {
+  max-width: 200px;
+  padding-bottom: 40px;
 }

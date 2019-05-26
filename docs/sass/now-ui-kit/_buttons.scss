@@ -161,3 +161,25 @@
     margin-top: -1px;
     right: 8px;
 }
+
+.collapsible {
+  color: black;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  background: $info-color;
+  text-align: left;
+  outline: none;
+}
+
+.active, .collapsible:hover {
+  background-color: $info-color;
+  border: 2px solid $primary-color;
+}
+
+.grant-content {
+  overflow: hidden;
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 10px;
+}

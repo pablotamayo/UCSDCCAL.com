@@ -1,5 +1,4 @@
 .section{
-    padding: 70px 0;
     position: relative;
     background: $white-color;
 
@@ -8,7 +7,8 @@
     }
 }
 
-.homepage-description-section{
+.info-color-background {
+  background: $info-color;
 }
 
 .section-navbars{
@@ -24,7 +24,6 @@
 
 .page-header{
     height: 100vh;
-    max-height: 1050px;
     padding: 0;
     color: $white-color;
     position: relative;
@@ -33,9 +32,11 @@
     background-size: cover;
 
     .page-header-image{
-        position: inherit;
+        position: absolute;
         background-size: cover;
         background-position: center center;
+        width: 100%;
+        height: 100%;
         z-index: -1;
     }
 
@@ -73,7 +74,6 @@
 
     &.page-header-small{
         height: 60vh;
-        // max-height: 440px;
     }
 
     &:after,
@@ -397,6 +397,50 @@
     }
 }
 
+.padding-contact-us {
+  padding: 200px 0;
+}
+
+.padding-bottom {
+  padding-bottom: 60px;
+}
+
+.padding-top {
+  padding-top: 60px;
+}
+
+.padding-bottom-grant {
+  padding-bottom: 30px;
+}
+
 .publications-indent{
   padding-left: $indent-publications;
+}
+
+.partner-header{
+  max-height: 1000px !important;
+}
+
+.homepage-section {
+  padding: 80px 0;
+}
+
+.colored-section {
+  background-color: $primary-color;
+}
+
+.border-element {
+  border: 4px solid $primary-color;
+}
+
+.grant-logo-title {
+    display: flex;
+    align-items: center;
+    padding-bottom: 18px;
+}
+
+.publication {
+    padding: 80px 0;
+    min-height: 300px;
+
 }

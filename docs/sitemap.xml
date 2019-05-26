@@ -3,86 +3,94 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/2017/11/29/example-post/</loc>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/2017/11/29/example-post/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/2016/12/30/a-plain-markdown-post/</loc>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/2016/12/30/a-plain-markdown-post/</loc>
     <lastmod>2016-12-30T21:49:57-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/2015/01/01/lorem-ipsum/</loc>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/2015/01/01/lorem-ipsum/</loc>
     <lastmod>2015-01-01T13:09:13-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/contact_us/</loc>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/contact_us/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/profile/</loc>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/profile/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/template/</loc>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/template/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/ctd2/</loc>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/ctd2/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/example/</loc>
-    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/hugo/</loc>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/tags/example/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/categories/hugo/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/r/</loc>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/post/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/resources/</loc>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/publications/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/publications/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/categories/r/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/team/</loc>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/resources/</loc>
+  </url>
+  
+  <url>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/tags/</loc>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/team/</loc>
+  </url>
+  
+  <url>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/ucsd_moores_cancer_center/</loc>
+  </url>
+  
+  <url>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/ucsd_school_of_medicine/</loc>
   </url>
   
 </urlset>

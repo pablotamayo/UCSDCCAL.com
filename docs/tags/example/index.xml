@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Example on UCSD CCAL</title>
-    <link>http://example.org/tags/example/</link>
+    <link>https://katekraft.github.io/ucsd_ccal_website/tags/example/</link>
     <description>Recent content in Example on UCSD CCAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/example/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://katekraft.github.io/ucsd_ccal_website/tags/example/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>example post</title>
-      <link>http://example.org/2017/11/29/example-post/</link>
+      <link>https://katekraft.github.io/ucsd_ccal_website/2017/11/29/example-post/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/2017/11/29/example-post/</guid>
+      <guid>https://katekraft.github.io/ucsd_ccal_website/2017/11/29/example-post/</guid>
       <description>Awesome blog post</description>
     </item>
     

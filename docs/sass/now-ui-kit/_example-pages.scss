@@ -110,7 +110,7 @@
 
     h5.description{
         max-width: 700px;
-        margin: 20px auto 75px;
+        margin: 20px auto 20px;
     }
 
     .nav-align-center{
@@ -222,11 +222,11 @@
     background-position: center center;
     .card-login{
         border-radius: $border-radius-large;
-        padding-bottom: $padding-base-horizontal;
+        padding: 100px 0;
         max-width: 320px;
 
         .btn-wd{
-            min-width:180px;
+            min-width: 180px;
         }
 
         .logo-container{

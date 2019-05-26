@@ -679,6 +679,18 @@ pre code {
     margin-left: -15px
 }
 
+.team-row {
+    margin-left: -60px !important;
+    margin-right: -60px !important;
+}
+
+.publication-row {
+  display: flex;
+  margin-right: -15px;
+  margin-left: -15px;
+  padding: 60px 0;
+}
+
 .no-gutters {
     margin-right: 0;
     margin-left: 0
@@ -8460,6 +8472,26 @@ a.text-dark:hover {
 
 .invisible {
     visibility: hidden!important
+}
+
+.center-justify {
+    justify-content: center;
+}
+
+@media (max-width: 1400px) {
+    .padding-team {
+      padding-left: 6%;
+      padding-right: 6%;
+      padding-bottom: 40px;
+}
+  }
+
+@media (min-width: 1401px) {
+    .padding-team {
+      padding-left: 9%;
+      padding-right: 9%;
+      padding-bottom: 40px;
+    }
 }
 
 
