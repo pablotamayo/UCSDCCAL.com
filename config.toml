@@ -11,7 +11,7 @@ themesDir = "themes"
 
 [[menu.main]]
     name = "Resources"
-    url = "/resources/"
+    url = "resources/"
     pre = "<i class='now-ui-icons design_app'></i>"
     weight = 1
 [[menu.main]]
@@ -44,7 +44,7 @@ themesDir = "themes"
 
 
 [params]
-    background = "/img/collaboration.jpg"
+    background = "img/collaboration.jpg"
     tint = "orange"
     custom_css = ["css/highlight.min.css"]
     custom_js = []
