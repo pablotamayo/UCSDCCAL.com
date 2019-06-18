@@ -41,15 +41,6 @@
     
     <item>
       <title></title>
-      <link>https://katekraft.github.io/ucsd_ccal_website/contact_us/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://katekraft.github.io/ucsd_ccal_website/contact_us/</guid>
-      <description> ccal-g@ucsd.edu  </description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://katekraft.github.io/ucsd_ccal_website/profile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -76,13 +67,31 @@
     </item>
     
     <item>
+      <title>Contact Us</title>
+      <link>https://katekraft.github.io/ucsd_ccal_website/contact_us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://katekraft.github.io/ucsd_ccal_website/contact_us/</guid>
+      <description> For inquires, questions, or comments, please email our Principal Investigator, Pablo Tamayo, at: ptamayo@ucsd.edu   Location Moores Cancer Center 3855 Health Sciences Drive 3rd Floor Suite 3007    .mapouter{position:relative;text-align:right;height:430px;width:748px;}.gmap_canvas {overflow:hidden;background:none!important;height:430px;width:748px;}      </description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>https://katekraft.github.io/ucsd_ccal_website/ucsd_school_of_medicine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://katekraft.github.io/ucsd_ccal_website/ucsd_school_of_medicine/</guid>
+      <description> UCSD School of Medicine     The CTD2 Center at the University of California San Diego (UCSD) aims to identify oncogenic cell states and characterize the most salient genomic and immune hallmarks to infer optimal combinations of pharmacologic and immunological perturbagens.    Learn More      </description>
+    </item>
+    
+    <item>
       <title>Publications</title>
       <link>https://katekraft.github.io/ucsd_ccal_website/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://katekraft.github.io/ucsd_ccal_website/publications/</guid>
-      <description>2019 2018 2017 Older   2019  Nature Communications Volume 10, Article number: 2188, 16 May 2019
-Chromatin dysregulation and DNA methylation at transcription start sites associated with transcriptional repression in cancers Mizuo Ando, Yuki Saito, Guorong Xu, Nam Q. Bui, Kate Medetgul-Ernar, Minya Pu, Kathleen Fisch, Shuling Ren, Akihiro Sakai, Takahito Fukusumi, Chao Liu, Sunny Haft, John Pang, Adam Mark, Daria A. Gaykalova, Theresa Guo, Alexander V. Favorov, Srinivasan Yegnasubramanian, Elana J.</description>
+      <description>2019 2018 2017 2016 Older   2019  Nature Communications Volume 10, Article number: 2188, 16 May 2019
+Chromatin dysregulation and DNA methylation at transcription start sites associated with transcriptional repression in cancers Mizuo Ando, Yuki Saito, Guorong Xu, Nam Q. Bui, Kate Medetgul-Ernar, Minya Pu, Kathleen Fisch, Shuling Ren, Akihiro Sakai, Takahito Fukusumi, Chao Liu, Sunny Haft, John Pang, Adam Mark, Daria A. Gaykalova, Theresa Guo, Alexander V.</description>
     </item>
     
     <item>
@@ -91,7 +100,7 @@ Chromatin dysregulation and DNA methylation at transcription start sites associa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://katekraft.github.io/ucsd_ccal_website/resources/</guid>
-      <description>Explore Cellular Contexts    Get CCAL Codebase    Setup Computational Environment          Run Workflows These workflows are used and updated regularly by the CCAL team. Please use Github Issues for questions or problems that arise when running these workflows.  Model and Infer Select features most useful for data decomposition, decompose data into NMF factors, visualize factors, define data states, and annotate data states and factors.</description>
+      <description>Explore Cellular Contexts    Get CCAL Codebase    Setup Computational Environment         Workflows These workflows are used and updated regularly by the CCAL team. Please use Github Issues for questions or problems that arise when running them.    Works in Progress  Published  Model and Infer Select features most useful for data decomposition, decompose data into NMF factors, define data states, annotate data states and factors, and visualize annotated factors and states on a map.</description>
     </item>
     
     <item>
@@ -100,7 +109,7 @@ Chromatin dysregulation and DNA methylation at transcription start sites associa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://katekraft.github.io/ucsd_ccal_website/team/</guid>
-      <description> Pablo Tamayo Director UCSD Center for Cancer Target Discovery and Development (CTD2) Group Leader, Computational Cancer Analysis Laboratory (CCAL) Co-Director, Genomics and Computational Biology Shared Resource (GCBSR) Professor, Division of Medical Genetics, UC San Diego School of Medicine Visiting Scientist, Cancer Program, Broad Institute of MIT/Harvard   William J. Kim Co-Director, UCSD Center for Cancer Target Discovery and Development (CTD2) Assistant Professor, Division of Medical Genetics, UC San Diego School of Medicine Visiting Scientist, Cancer Program, Broad Institute of MIT/Harvard   Benjamin Briggs Hematology Oncology Fellow Rady Institute for Genomic Medicine   Elizabeth Brunk Cancer Therapeutics Postdoctoral Fellow   Xiaojun Max Xu Research Data Scientist Computational Oncologist   Alex Wenzel Graduate Student Mesirov Lab  Emily Addleson Experimental Biologist Kim Lab  Mustafa Khan Software Engineer  Bartholomew Tam Undergraduate Student  Kathyrn Berkey Volunteer   Kate Niklason Staff Research Associate   Kwat Medetgul-Ernar Research Data Scientist III       </description>
+      <description>Staff  Pablo Tamayo Director UCSD Center for Cancer Target Discovery and Development (CTD2) Group Leader, Computational Cancer Analysis Laboratory (CCAL) Co-Director, Genomics and Computational Biology Shared Resource (GCBSR) Professor, Division of Medical Genetics, UC San Diego School of Medicine Visiting Scientist, Cancer Program, Broad Institute of MIT/Harvard   William J. Kim Co-Director, UCSD Center for Cancer Target Discovery and Development (CTD2) Assistant Professor, Division of Medical Genetics, UC San Diego School of Medicine Visiting Scientist, Cancer Program, Broad Institute of MIT/Harvard   Benjamin Briggs Hematology Oncology Fellow Rady Institute for Genomic Medicine   Elizabeth Brunk Cancer Therapeutics Postdoctoral Fellow   Xiaojun Max Xu Research Data Scientist Computational Oncologist   Alex Wenzel Graduate Student Mesirov Lab  Emily Addleson Experimental Biologist Kim Lab  Stephanie Ting Research Data Scientist I  Mustafa Khan Software Engineer  Bartholomew Tam Undergraduate Student  Kathyrn Berkey Volunteer  Andrew M.</description>
     </item>
     
     <item>
@@ -109,17 +118,7 @@ Chromatin dysregulation and DNA methylation at transcription start sites associa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://katekraft.github.io/ucsd_ccal_website/ucsd_moores_cancer_center/</guid>
-      <description>.collapsible { background-color: #999; color: white; cursor: pointer; padding: 18px; width: 100%; border: none; text-align: left; outline: none; font-size: 30px; } .active, .collapsible:hover { background-color: #777; } .content { padding: 0 18px; display: none; overflow: hidden; background-color: #f1f1f1; }    A Collapsible:
-Open Collapsible Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
-    </item>
-    
-    <item>
-      <title>UCSD School of Medicine</title>
-      <link>https://katekraft.github.io/ucsd_ccal_website/ucsd_school_of_medicine/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://katekraft.github.io/ucsd_ccal_website/ucsd_school_of_medicine/</guid>
-      <description> UCSD School of Medicine     The CTD2 Center at the University of California San Diego (UCSD) aims to identify oncogenic cell states and characterize the most salient genomic and immune hallmarks to infer optimal combinations of pharmacologic and immunological perturbagens.    Learn More      </description>
+      <description>Text</description>
     </item>
     
   </channel>

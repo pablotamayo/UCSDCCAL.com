@@ -3,8 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/categories/</loc>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/</loc>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/post/</loc>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/tags/</loc>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/tags/example/</loc>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://katekraft.github.io/ucsd_ccal_website/2017/11/29/example-post/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/categories/hugo/</loc>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/categories/r/</loc>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -15,10 +56,6 @@
   <url>
     <loc>https://katekraft.github.io/ucsd_ccal_website/2015/01/01/lorem-ipsum/</loc>
     <lastmod>2015-01-01T13:09:13-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://katekraft.github.io/ucsd_ccal_website/contact_us/</loc>
   </url>
   
   <url>
@@ -34,31 +71,11 @@
   </url>
   
   <url>
-    <loc>https://katekraft.github.io/ucsd_ccal_website/categories/</loc>
-    <priority>0</priority>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/contact_us/</loc>
   </url>
   
   <url>
-    <loc>https://katekraft.github.io/ucsd_ccal_website/</loc>
-    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://katekraft.github.io/ucsd_ccal_website/tags/example/</loc>
-    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://katekraft.github.io/ucsd_ccal_website/categories/hugo/</loc>
-    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://katekraft.github.io/ucsd_ccal_website/post/</loc>
-    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://katekraft.github.io/ucsd_ccal_website/ucsd_school_of_medicine/</loc>
   </url>
   
   <url>
@@ -66,19 +83,7 @@
   </url>
   
   <url>
-    <loc>https://katekraft.github.io/ucsd_ccal_website/categories/r/</loc>
-    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://katekraft.github.io/ucsd_ccal_website/resources/</loc>
-  </url>
-  
-  <url>
-    <loc>https://katekraft.github.io/ucsd_ccal_website/tags/</loc>
-    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -87,10 +92,6 @@
   
   <url>
     <loc>https://katekraft.github.io/ucsd_ccal_website/ucsd_moores_cancer_center/</loc>
-  </url>
-  
-  <url>
-    <loc>https://katekraft.github.io/ucsd_ccal_website/ucsd_school_of_medicine/</loc>
   </url>
   
 </urlset>

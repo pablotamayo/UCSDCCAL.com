@@ -199,7 +199,6 @@ p{
 .workflow-description {
   font-size: 120% !important;
   font-weight: 300 !important;
-  padding: 0 60px;
 }
 
 .team-description {
@@ -210,17 +209,24 @@ p{
 }
 
 .team-name{
-    color: $primary-color;
+    color: $success-color;
     margin-bottom: 25px !important;
-    font-weight: $font-weight-bold;
+    font-weight: 400;
     font-size: 180%;
 }
 
+.secondary-team-name {
+    margin-bottom: 25px !important;
+    font-weight: 400;
+    font-size: 180%;
+
+}
+
 .team-name-description{
-    color: $success-color;
+    color: $primary-color;
     font-weight: 500 !important;
     margin-bottom: 12px !important;
-    font-size: 100%;
+    font-size: 110%;
     font-weight: normal !important;
     max-width: 320px;
 }
@@ -237,7 +243,11 @@ p{
 }
 
 .white-text {
-    color: $white-color;
+    color: $white-color !important;
+}
+
+.primary-color-text {
+    color: $primary-color !important;
 }
 
 .light-color-text {
@@ -250,4 +260,8 @@ p{
 
 .publication-title {
   margin: 15px 0 !important;
+}
+
+.contact-us-text {
+  margin-top: 0 !important;
 }

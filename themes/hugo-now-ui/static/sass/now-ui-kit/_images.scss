@@ -82,7 +82,7 @@ img{
 
 .page-header-image-contact-us{
     max-height: 1200px;
-    background-image: url("img/collaboration.jpg");
+    background-image: url("img/moores_light.jpg");
 }
 
 .resources-icons {
@@ -93,7 +93,10 @@ img{
 
 .workflow-icon {
     max-width: 60px;
-    padding: 10px 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 60px;
 }
 
 .grant-logo {
@@ -104,4 +107,12 @@ img{
 .grant-description-logo {
   max-width: 200px;
   padding-bottom: 40px;
+}
+
+.split-arrows {
+  width: 6%;
+  justify-content: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
