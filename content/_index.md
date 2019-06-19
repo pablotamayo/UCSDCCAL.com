@@ -1,5 +1,5 @@
 ---
 title: "Computational Cancer Analysis Laboratory"
 background: "img/moores.png"
-description: ""
+description: "at UCSD Moores Cancer Center"
 ---

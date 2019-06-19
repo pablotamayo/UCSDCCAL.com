@@ -3,7 +3,7 @@
   <div class="content-center">
     <h1 class="title">{{ .Title }}</h1>
     <div class="text-center">
-      {{with .Params.description }} {{ . | safeHTML }} {{ end }}
+      <h4><strong>{{with .Params.description }} {{ . | safeHTML }} {{ end }}</strong></h4>
     </div>
   </div>
 </div>
@@ -13,9 +13,14 @@
 {{ define "body" }}
 
 <div class="homepage-section colored-section">
-  <h5 class="description white-text" style="font-size:210%">We are a team of Cancer Researchers and Computational Biologists working on Cancer Classification, Target Discovery and Precision Oncology.</h5>
+  <div class="container padding-top padding-bottom">
+    <div class="row center-justify">
+      <div class="col-md-8 text-center">
+        <h5 class="homepage-description mint">We are a team of Cancer Researchers and Computational Biologists working on Cancer Classification, Target Discovery and Precision Oncology.</h5>
+      </div>
+    </div>
+  </div>
 </div>
-
 <div class="container">
 <div class="center-justify">
 
