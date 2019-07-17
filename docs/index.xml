@@ -108,7 +108,7 @@ Chromatin dysregulation and DNA methylation at transcription start sites associa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://katekraft.github.io/ucsd_ccal_website/resources/</guid>
-      <description>Explore Cellular Contexts    Get CCAL Codebase    Setup Computational Environment         Workflows These workflows are used and updated regularly by the CCAL team. Please use Github Issues for questions or problems that arise when running them.    Works in Progress  Published  Model and Infer Select features most useful for data decomposition, decompose data into NMF factors, define data states, annotate data states and factors, and visualize annotated factors and states on a map.</description>
+      <description>Explore Cellular Contexts    Get CCAL Codebase    Setup Computational Environment         Workflows These workflows are used and updated regularly by the CCAL team. Please use Github Issues for questions or problems that arise when running them.    Works in Progress  Model and Infer Select features most useful for data decomposition, decompose data into NMF factors, define data states, annotate data states and factors, and visualize annotated factors and states on a map.</description>
     </item>
     
     <item>

@@ -3570,6 +3570,11 @@ img {
   margin-right: auto;
 }
 
+@media only screen and (max-width: 800px) {
+  .split-arrows {
+    display: none;
+  }
+}
 .popover {
   font-size: 14px;
   box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.2);
@@ -5327,6 +5332,55 @@ Created using IcoMoon - icomoon.io
   padding: 0 170px;
 }
 
+.flex-column {
+  align-content: space-between;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  flex-flow: column wrap;
+  height: 950px;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.flex-column-title {
+  flex-basis: 18%;
+}
+
+.flex-column-item {
+  flex-basis: 41%;
+}
+
+@media only screen and (min-width: 601px) and (max-width: 800px) {
+  .flex-column {
+    height: 1800px;
+  }
+
+  .flex-column-title {
+    width: 100%;
+    flex-basis: auto;
+  }
+
+  .flex-column-item {
+    width: 100%;
+    flex-basis: auto;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .flex-column {
+    height: 1800px;
+  }
+
+  .flex-column-title {
+    width: 100%;
+    flex-basis: 10%;
+  }
+
+  .flex-column-item {
+    width: 100%;
+    flex-basis: 20%;
+  }
+}
 @media screen and (max-width: 991px) {
   .sidebar-collapse .navbar-collapse {
     position: fixed;
