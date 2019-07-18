@@ -3564,7 +3564,7 @@ img {
 }
 
 .split-arrows {
-  width: 6%;
+  width: 120px;
   justify-content: center;
   display: block;
   margin-left: auto;
@@ -3575,8 +3575,7 @@ img {
   .split-arrows {
     display: none;
   }
-}
-@media only screen and (max-width: 800px) {
+
   .team-img {
     height: 250px;
   }
@@ -3584,6 +3583,11 @@ img {
 @media only screen and (min-width: 801px) and (max-width: 1200px) {
   .team-img {
     height: 250px;
+  }
+}
+@media only screen and (min-width: 2000px) {
+  .split-arrows {
+    width: 150px;
   }
 }
 .popover {
