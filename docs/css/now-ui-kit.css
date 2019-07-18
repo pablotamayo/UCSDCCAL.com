@@ -3468,6 +3468,7 @@ img {
 .team-img {
   padding-top: 80px;
   padding-bottom: 30px;
+  height: 300px;
 }
 
 .publication-journal-image {
@@ -3573,6 +3574,16 @@ img {
 @media only screen and (max-width: 800px) {
   .split-arrows {
     display: none;
+  }
+}
+@media only screen and (max-width: 800px) {
+  .team-img {
+    height: 250px;
+  }
+}
+@media only screen and (min-width: 801px) and (max-width: 1200px) {
+  .team-img {
+    height: 250px;
   }
 }
 .popover {
