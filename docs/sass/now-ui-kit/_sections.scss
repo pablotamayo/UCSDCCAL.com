@@ -500,6 +500,10 @@
   flex-basis:41%;
 }
 
+.team-member {
+  flex-basis: 33%;
+}
+
 @media only screen and (min-width: 601px) and (max-width: 800px) {
   .flex-column {
     height:1800px;
@@ -514,6 +518,13 @@
   }
 }
 
+@media only screen and (min-width: 601px) and (max-width: 900px) {
+  .team-member {
+    flex-basis: 45%;
+    padding-left: 5%;
+  }
+}
+
 @media only screen and (max-width: 600px) {
   .flex-column {
     height:1800px;
@@ -525,5 +536,15 @@
   .flex-column-item {
     width:100%;
     flex-basis:20%;
+  }
+  .team-member {
+    flex-basis: 90%;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align:center;
+  }
+  .team-name-description {
+    max-width: none;
+
   }
 }
