@@ -5332,6 +5332,8 @@ Created using IcoMoon - icomoon.io
 
 .grant-logo-title {
   display: flex;
+  flex-wrap: wrap;
+  text-align: left;
   align-items: center;
   padding-bottom: 18px;
 }
@@ -5376,6 +5378,19 @@ Created using IcoMoon - icomoon.io
   flex-basis: 33%;
 }
 
+.home-project-logo {
+  flex-basis: 25%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.home-project-title {
+  flex-basis: 75%;
+  text-align: left;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
 @media only screen and (min-width: 601px) and (max-width: 800px) {
   .flex-column {
     height: 1800px;
@@ -5395,6 +5410,24 @@ Created using IcoMoon - icomoon.io
   .team-member {
     flex-basis: 45%;
     padding-left: 5%;
+  }
+
+  .grant-logo-title {
+    justify-content: center;
+    padding-bottom: 0;
+  }
+
+  .home-project-logo {
+    flex-basis: 32%;
+    justify-content: center;
+    padding: 0px;
+  }
+
+  .home-project-title {
+    flex-basis: 90%;
+    padding: 0px;
+    text-align: center;
+    font-size: 80% !important;
   }
 }
 @media only screen and (max-width: 600px) {
@@ -5421,6 +5454,24 @@ Created using IcoMoon - icomoon.io
 
   .team-name-description {
     max-width: none;
+  }
+
+  .grant-logo-title {
+    justify-content: center;
+    padding-bottom: 0;
+  }
+
+  .home-project-logo {
+    flex-basis: 50%;
+    justify-content: center;
+    padding: 0px;
+  }
+
+  .home-project-title {
+    flex-basis: 90%;
+    padding: 0px;
+    text-align: center;
+    font-size: 80% !important;
   }
 }
 @media screen and (max-width: 991px) {
