@@ -1,6 +1,7 @@
 img{
     max-width: 100%;
     border-radius: 1px;
+    min-width: -webkit-fill-available;
 }
 
 .img-raised{
@@ -24,40 +25,6 @@ img{
 .publication-cover{
     margin-right: 130px !important;
     width: 220px !important;
-}
-
-.cancer-cell{
-
-}
-
-.nature-communications{
-    height: 60px;
-    width: 150px;
-    padding-right: 30px;
-}
-
-.cell-systems{
-    height: 80px;
-    width: 150px;
-    padding-right: 65px;
-}
-
-.nature{
-    height: 50px;
-    width: 150px;
-    padding-right: 50px;
-}
-
-.clinical-cancer-research{
-    height: 90px;
-    width: 150px;
-    padding-right: 50px;
-}
-
-.pnas{
-    height: 60px;
-    width: 150px;
-    padding-right: 50px;
 }
 
 .roles{

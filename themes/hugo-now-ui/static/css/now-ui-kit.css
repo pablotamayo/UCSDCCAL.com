@@ -3459,6 +3459,7 @@ body {
 img {
   max-width: 100%;
   border-radius: 1px;
+  min-width: -webkit-fill-available;
 }
 
 .img-raised {
@@ -3482,36 +3483,6 @@ img {
 .publication-cover {
   margin-right: 130px !important;
   width: 220px !important;
-}
-
-.nature-communications {
-  height: 60px;
-  width: 150px;
-  padding-right: 30px;
-}
-
-.cell-systems {
-  height: 80px;
-  width: 150px;
-  padding-right: 65px;
-}
-
-.nature {
-  height: 50px;
-  width: 150px;
-  padding-right: 50px;
-}
-
-.clinical-cancer-research {
-  height: 90px;
-  width: 150px;
-  padding-right: 50px;
-}
-
-.pnas {
-  height: 60px;
-  width: 150px;
-  padding-right: 50px;
 }
 
 .roles {
@@ -5378,13 +5349,13 @@ Created using IcoMoon - icomoon.io
   flex-basis: 33%;
 }
 
-.home-project-logo {
+.project-logo {
   flex-basis: 25%;
   padding-right: 15px;
   padding-left: 15px;
 }
 
-.home-project-title {
+.project-title {
   flex-basis: 75%;
   text-align: left;
   padding-right: 15px;
@@ -5417,17 +5388,28 @@ Created using IcoMoon - icomoon.io
     padding-bottom: 0;
   }
 
-  .home-project-logo {
-    flex-basis: 32%;
-    justify-content: center;
-    padding: 0px;
+  .year {
+    text-align: center;
+    font-size: 300%;
   }
 
-  .home-project-title {
+  .publication-row {
+    justify-content: center;
+  }
+
+  .project-logo {
+    flex-basis: 36%;
+    padding-bottom: 20px;
+  }
+
+  .project-title {
     flex-basis: 90%;
-    padding: 0px;
     text-align: center;
     font-size: 80% !important;
+  }
+
+  .margin-left {
+    text-align: center;
   }
 }
 @media only screen and (max-width: 600px) {
@@ -5461,15 +5443,21 @@ Created using IcoMoon - icomoon.io
     padding-bottom: 0;
   }
 
-  .home-project-logo {
-    flex-basis: 44%;
-    justify-content: center;
-    padding: 0px;
+  .year {
+    text-align: center;
   }
 
-  .home-project-title {
+  .publication-row {
+    justify-content: center;
+  }
+
+  .project-logo {
+    flex-basis: 54%;
+    padding-bottom: 20px;
+  }
+
+  .project-title {
     flex-basis: 90%;
-    padding: 0px;
     text-align: center;
     font-size: 80% !important;
   }
