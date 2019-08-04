@@ -1,7 +1,10 @@
 img{
     max-width: 100%;
     border-radius: 1px;
-    min-width: -webkit-fill-available;
+}
+
+.img-fill-space {
+  min-width: -webkit-fill-available;
 }
 
 .img-raised{
