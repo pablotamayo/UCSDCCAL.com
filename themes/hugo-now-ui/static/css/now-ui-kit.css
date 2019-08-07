@@ -2838,6 +2838,15 @@ p {
   font-weight: lighter;
 }
 
+@media only screen and (max-width: 600px) {
+  .title {
+    font-size: 260%;
+  }
+
+  .homepage-description {
+    font-size: 180%;
+  }
+}
 body {
   color: #2c2c2c;
   font-size: 14px;
@@ -3548,6 +3557,10 @@ img {
 @media only screen and (max-width: 950px) {
   .split-arrows {
     display: none;
+  }
+
+  .resources-icons {
+    padding-top: 60px;
   }
 }
 @media only screen and (max-width: 1000px) {
@@ -5335,17 +5348,17 @@ Created using IcoMoon - icomoon.io
   flex-direction: column;
   flex-wrap: wrap;
   flex-flow: column wrap;
-  height: 950px;
+  height: 850px;
   margin-right: -15px;
   margin-left: -15px;
 }
 
 .flex-column-title {
-  flex-basis: 18%;
+  flex-basis: 12%;
 }
 
 .flex-column-item {
-  flex-basis: 41%;
+  flex-basis: 44%;
 }
 
 .team-member {
@@ -5422,12 +5435,18 @@ Created using IcoMoon - icomoon.io
 
   .flex-column-title {
     width: 100%;
-    flex-basis: 10%;
+    flex-basis: 8%;
+    padding-top: 30px;
   }
 
   .flex-column-item {
     width: 100%;
     flex-basis: 20%;
+    align-items: baseline;
+  }
+
+  .workflow-padding {
+    padding: 0 30px;
   }
 
   .team-member {

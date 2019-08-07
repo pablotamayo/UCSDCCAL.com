@@ -275,3 +275,12 @@ p{
   font-size: 220%;
   font-weight: lighter;
 }
+
+@media only screen and (max-width:600px) {
+  .title {
+    font-size: 260%;
+  }
+  .homepage-description {
+    font-size: 180%;
+  }
+}
