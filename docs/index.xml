@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computational Cancer Analysis Laboratory on UCSD CCAL</title>
@@ -27,7 +27,7 @@
       
       <guid>https://cranky-payne-c064c7.netlify.com/2016/12/30/a-plain-markdown-post/</guid>
       <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
+ You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&#39;s Markdown and Pandoc&#39;s Markdown.</description>
     </item>
     
     <item>
@@ -58,15 +58,6 @@
     </item>
     
     <item>
-      <title>CTD2</title>
-      <link>https://cranky-payne-c064c7.netlify.com/ctd2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cranky-payne-c064c7.netlify.com/ctd2/</guid>
-      <description>    The CTD2 Center at the University of California San Diego (UCSD) aims to identify oncogenic cell states and characterize the most salient genomic and immune hallmarks to infer optimal combinations of pharmacologic and immunological perturbagens.  Learn More      </description>
-    </item>
-    
-    <item>
       <title>Contact Us</title>
       <link>https://cranky-payne-c064c7.netlify.com/contact_us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -91,15 +82,22 @@ kcniklason@ucsd.edu
     </item>
     
     <item>
+      <title>CTD2</title>
+      <link>https://cranky-payne-c064c7.netlify.com/ctd2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cranky-payne-c064c7.netlify.com/ctd2/</guid>
+      <description>    The CTD2 Center at the University of California San Diego (UCSD) aims to identify oncogenic cell states and characterize the most salient genomic and immune hallmarks to infer optimal combinations of pharmacologic and immunological perturbagens.  Learn More      </description>
+    </item>
+    
+    <item>
       <title>Publications</title>
       <link>https://cranky-payne-c064c7.netlify.com/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cranky-payne-c064c7.netlify.com/publications/</guid>
-      <description>2019 2018 2017 2016 Older   2019  iScience Volume 19, 27 September 2019, Pages 850-859
-Cyclin E Overexpression in Human Mammary Epithelial Cells Promotes Epithelial Cancer-Specific Copy Number Alterations Servando Giraldez, Pablo Tamayo, Nathan Wineinger, William Kim, and Steven I. Reed
-   Cancer Research 1 September 2019
-Metformin inhibits progression of Head and Neck Squamous Cell Carcinoma by acting Directly on Carcinoma Initiating Cells Xingyu Wu, Huwate Yeerna, Yusuke Goto, Toshinori Ando, Victoria H Wu, Xuefeng Zhang, Zhiyong Wang, Panomwat Amornphimoltham, Anne N.</description>
+      <description>2020 2019 2018 2017 2016 Older   2020  Molecular Cancer Therapeutics 23 January 2020
+Macrophage Syk-PI3Kγ inhibits anti-tumor immunity: SRX3207, a novel dual Syk-PI3K inhibitory chemotype relieves tumor immunosuppression Shweta Joshi, Kevin X Liu, Muamera Zulcic, Alok R. Singh, Dylan Skola, Christopher K. Glass, P. Dominick Sanders, Andrew B Sharabi, Timothy V. Pham, Pablo Tamayo, Daniel Shiang, Huy Q. Dinh, Catherine C. Hedrick, Guillermo A. Morales, Joseph R.</description>
     </item>
     
     <item>
