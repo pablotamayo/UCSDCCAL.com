@@ -1,4 +1,4 @@
-baseURL = "https://cranky-payne-c064c7.netlify.com"
+baseURL = "https://katekraft.github.io/ucsdccal.org"
 languageCode = "en-us"
 theme = "hugo-now-ui"
 title = "UCSD CCAL"

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>r on UCSD CCAL</title>
-    <link>https://cranky-payne-c064c7.netlify.com/categories/r/</link>
+    <link>https://katekraft.github.io/ucsdccal.org/categories/r/</link>
     <description>Recent content in r on UCSD CCAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://cranky-payne-c064c7.netlify.com/categories/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://katekraft.github.io/ucsdccal.org/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>example post</title>
-      <link>https://cranky-payne-c064c7.netlify.com/2017/11/29/example-post/</link>
+      <link>https://katekraft.github.io/ucsdccal.org/2017/11/29/example-post/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://cranky-payne-c064c7.netlify.com/2017/11/29/example-post/</guid>
+      <guid>https://katekraft.github.io/ucsdccal.org/2017/11/29/example-post/</guid>
       <description>Awesome blog post</description>
     </item>
     

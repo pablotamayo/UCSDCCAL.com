@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computational Cancer Analysis Laboratory on UCSD CCAL</title>
-    <link>https://cranky-payne-c064c7.netlify.com/</link>
+    <link>https://katekraft.github.io/ucsdccal.org/</link>
     <description>Recent content in Computational Cancer Analysis Laboratory on UCSD CCAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://cranky-payne-c064c7.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://katekraft.github.io/ucsdccal.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>example post</title>
-      <link>https://cranky-payne-c064c7.netlify.com/2017/11/29/example-post/</link>
+      <link>https://katekraft.github.io/ucsdccal.org/2017/11/29/example-post/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://cranky-payne-c064c7.netlify.com/2017/11/29/example-post/</guid>
+      <guid>https://katekraft.github.io/ucsdccal.org/2017/11/29/example-post/</guid>
       <description>Awesome blog post</description>
     </item>
     
     <item>
       <title>A Plain Markdown Post</title>
-      <link>https://cranky-payne-c064c7.netlify.com/2016/12/30/a-plain-markdown-post/</link>
+      <link>https://katekraft.github.io/ucsdccal.org/2016/12/30/a-plain-markdown-post/</link>
       <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
       
-      <guid>https://cranky-payne-c064c7.netlify.com/2016/12/30/a-plain-markdown-post/</guid>
+      <guid>https://katekraft.github.io/ucsdccal.org/2016/12/30/a-plain-markdown-post/</guid>
       <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
  You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
     </item>
     
     <item>
       <title>Lorem Ipsum</title>
-      <link>https://cranky-payne-c064c7.netlify.com/2015/01/01/lorem-ipsum/</link>
+      <link>https://katekraft.github.io/ucsdccal.org/2015/01/01/lorem-ipsum/</link>
       <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
       
-      <guid>https://cranky-payne-c064c7.netlify.com/2015/01/01/lorem-ipsum/</guid>
+      <guid>https://katekraft.github.io/ucsdccal.org/2015/01/01/lorem-ipsum/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://cranky-payne-c064c7.netlify.com/profile/</link>
+      <link>https://katekraft.github.io/ucsdccal.org/profile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cranky-payne-c064c7.netlify.com/profile/</guid>
+      <guid>https://katekraft.github.io/ucsdccal.org/profile/</guid>
       <description> Follow      About me An artist of considerable range, Ryan — the name taken by Melbourne-raised, Brooklyn-based Nick Murphy — writes, performs and records all of his own music, giving it a warm, intimate feel with a solid groove structure. An artist of considerable range. My Portfolio 2017  --   2016  --   2015  --   Older  --                      </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://cranky-payne-c064c7.netlify.com/template/</link>
+      <link>https://katekraft.github.io/ucsdccal.org/template/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cranky-payne-c064c7.netlify.com/template/</guid>
+      <guid>https://katekraft.github.io/ucsdccal.org/template/</guid>
       <description>Text!!!!</description>
     </item>
     
     <item>
       <title>Contact Us</title>
-      <link>https://cranky-payne-c064c7.netlify.com/contact_us/</link>
+      <link>https://katekraft.github.io/ucsdccal.org/contact_us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cranky-payne-c064c7.netlify.com/contact_us/</guid>
+      <guid>https://katekraft.github.io/ucsdccal.org/contact_us/</guid>
       <description> Pablo Tamayo  Prinicpal Investigator
 ptamayo@ucsd.edu
    William Kim  Prinicpal Investigator
@@ -74,56 +74,56 @@ kcniklason@ucsd.edu
     
     <item>
       <title>Contact Us</title>
-      <link>https://cranky-payne-c064c7.netlify.com/ucsd_school_of_medicine/</link>
+      <link>https://katekraft.github.io/ucsdccal.org/ucsd_school_of_medicine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cranky-payne-c064c7.netlify.com/ucsd_school_of_medicine/</guid>
+      <guid>https://katekraft.github.io/ucsdccal.org/ucsd_school_of_medicine/</guid>
       <description> UCSD School of Medicine     The CTD2 Center at the University of California San Diego (UCSD) aims to identify oncogenic cell states and characterize the most salient genomic and immune hallmarks to infer optimal combinations of pharmacologic and immunological perturbagens.    Learn More      </description>
     </item>
     
     <item>
       <title>CTD2</title>
-      <link>https://cranky-payne-c064c7.netlify.com/ctd2/</link>
+      <link>https://katekraft.github.io/ucsdccal.org/ctd2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cranky-payne-c064c7.netlify.com/ctd2/</guid>
+      <guid>https://katekraft.github.io/ucsdccal.org/ctd2/</guid>
       <description>    The CTD2 Center at the University of California San Diego (UCSD) aims to identify oncogenic cell states and characterize the most salient genomic and immune hallmarks to infer optimal combinations of pharmacologic and immunological perturbagens.  Learn More      </description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://cranky-payne-c064c7.netlify.com/publications/</link>
+      <link>https://katekraft.github.io/ucsdccal.org/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cranky-payne-c064c7.netlify.com/publications/</guid>
+      <guid>https://katekraft.github.io/ucsdccal.org/publications/</guid>
       <description>2020 2019 2018 2017 2016 Older   2020  Molecular Cancer Therapeutics 23 January 2020
 Macrophage Syk-PI3Kγ inhibits anti-tumor immunity: SRX3207, a novel dual Syk-PI3K inhibitory chemotype relieves tumor immunosuppression Shweta Joshi, Kevin X Liu, Muamera Zulcic, Alok R. Singh, Dylan Skola, Christopher K. Glass, P. Dominick Sanders, Andrew B Sharabi, Timothy V. Pham, Pablo Tamayo, Daniel Shiang, Huy Q. Dinh, Catherine C. Hedrick, Guillermo A. Morales, Joseph R.</description>
     </item>
     
     <item>
       <title>Resources</title>
-      <link>https://cranky-payne-c064c7.netlify.com/resources/</link>
+      <link>https://katekraft.github.io/ucsdccal.org/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cranky-payne-c064c7.netlify.com/resources/</guid>
+      <guid>https://katekraft.github.io/ucsdccal.org/resources/</guid>
       <description>Explore Cellular Contexts   Get CCAL Codebase   Setup Computational Environment        Workflows These workflows are used and updated regularly by the CCAL team. Please use Github Issues for questions or problems that arise when running them.    Works in Progress  Model and Infer Select features most useful for data decomposition, decompose data into NMF factors, define data states, annotate data states and factors, and visualize annotated factors and states on a map.</description>
     </item>
     
     <item>
       <title>Team</title>
-      <link>https://cranky-payne-c064c7.netlify.com/team/</link>
+      <link>https://katekraft.github.io/ucsdccal.org/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cranky-payne-c064c7.netlify.com/team/</guid>
+      <guid>https://katekraft.github.io/ucsdccal.org/team/</guid>
       <description>Team Members  Pablo Tamayo Director UCSD Center for Cancer Target Discovery and Development (CTD2) Group Leader, Computational Cancer Analysis Laboratory (CCAL) Co-Director, Genomics and Computational Biology Shared Resource (GCBSR) Professor, Division of Medical Genetics, UC San Diego School of Medicine Visiting Scientist, Cancer Program, Broad Institute of MIT/Harvard  William J. Kim Co-Director, UCSD Center for Cancer Target Discovery and Development (CTD2) Assistant Professor, Division of Medical Genetics, UC San Diego School of Medicine Visiting Scientist, Cancer Program, Broad Institute of MIT/Harvard  Gyan Bhanot Visiting Research Scientist, UC San Diego School of Medicine Professor, Department of Physics &amp; Astronomy &amp; Molecular Biology &amp; Biochemistry Cancer Institute of New Jersey &amp; Rutgers University  Benjamin Briggs Hematology Oncology Fellow Rady Institute for Genomic Medicine   Elizabeth Brunk Cancer Therapeutics Postdoctoral Fellow  Suzie Hight Postdoctoral Scholar Kim Lab   Xiaojun Max Xu Research Data Scientist Computational Oncologist   Alex Wenzel Graduate Student Mesirov Lab  Adam Officer Graduate Student  Emily Addleson Experimental Biologist Kim Lab  Stephanie Ting Research Data Scientist Bioinformatician  Jack Niklason Data Analyst  Mustafa Khan Software Engineer  Andrew M.</description>
     </item>
     
     <item>
       <title>UCSD Moores Cancer Center</title>
-      <link>https://cranky-payne-c064c7.netlify.com/ucsd_moores_cancer_center/</link>
+      <link>https://katekraft.github.io/ucsdccal.org/ucsd_moores_cancer_center/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cranky-payne-c064c7.netlify.com/ucsd_moores_cancer_center/</guid>
+      <guid>https://katekraft.github.io/ucsdccal.org/ucsd_moores_cancer_center/</guid>
       <description>Text</description>
     </item>
     
