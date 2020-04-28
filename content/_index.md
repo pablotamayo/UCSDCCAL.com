@@ -1,5 +1,5 @@
 ---
 title: "Computational Cancer Analysis Laboratory"
-background: "img/moores.png"
-description: "at UCSD Moores Cancer Center"
+background: "img/cnt_building.jpg"
+description: "at The Center for Novel Therapeutics and Moores Cancer Center"
 ---

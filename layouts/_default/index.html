@@ -3,7 +3,7 @@
   <div class="content-center">
     <h1 class="title">{{ .Title }}</h1>
     <div class="text-center">
-      <h4><strong>{{with .Params.description }} {{ . | safeHTML }} {{ end }}</strong></h4>
+      <h4 class="homepage-location">{{with .Params.description }} {{ . | safeHTML }} {{ end }}</h4>
     </div>
   </div>
 </div>

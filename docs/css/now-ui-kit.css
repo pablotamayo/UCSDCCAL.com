@@ -2834,7 +2834,12 @@ p {
 }
 
 .homepage-description {
-  font-size: 220%;
+  font-size: 180%;
+  font-weight: normal;
+  line-height: inherit;
+}
+
+.homepage-location {
   font-weight: lighter;
 }
 

@@ -44,7 +44,7 @@ themesDir = "themes"
 
 
 [params]
-    background = "img/moores_light.jpg"
+    background = "img/cnt_building.jpg"
     tint = "orange"
     custom_css = ["css/highlight.min.css"]
     custom_js = []
