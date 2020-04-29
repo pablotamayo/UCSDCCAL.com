@@ -2829,8 +2829,35 @@ p {
 }
 
 .contact-us-text {
-  margin-top: 0 !important;
+  margin-top: 10px !important;
+  font-weight: normal;
+  text-align: center;
+}
+
+.location-text {
+  margin: 20px 0;
+  font-weight: normal;
+  text-align: center;
+}
+
+.location-text-line {
+  margin: 0 !important;
+  font-size: 150%;
   font-weight: lighter;
+  text-align: center;
+}
+
+.location-text-line-title {
+  color: #003171;
+  margin: 0 !important;
+  font-size: 150%;
+  font-weight: normal;
+  text-align: center;
+}
+
+.location-text-line-title:hover {
+  color: #0062cc;
+  text-decoration: none !important;
 }
 
 .homepage-description {
@@ -3557,6 +3584,14 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.location-image {
+  border: none;
+}
+
+.location-image:hover {
+  border: 2px blue;
 }
 
 @media only screen and (max-width: 950px) {
@@ -5383,6 +5418,29 @@ Created using IcoMoon - icomoon.io
   padding-left: 15px;
 }
 
+.contact-us-location {
+  flex-basis: 50%;
+  padding-right: 20px;
+  padding-left: 20px;
+  text-align: center;
+}
+
+.contact-us-locations-row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+  padding: 20px 0;
+  align-items: center;
+}
+
+.contact-us-map {
+  margin: 0px 80px;
+  flex-basis: 100%;
+  min-height: 400px;
+  align-items: center;
+}
+
 @media only screen and (min-width: 601px) and (max-width: 800px) {
   .flex-column {
     height: 1800px;
@@ -5430,6 +5488,12 @@ Created using IcoMoon - icomoon.io
   }
 
   .margin-left {
+    text-align: center;
+  }
+
+  .contact-us-location {
+    flex-basis: 100%;
+    margin: 0px 8%;
     text-align: center;
   }
 }
@@ -5487,6 +5551,20 @@ Created using IcoMoon - icomoon.io
     flex-basis: 90%;
     text-align: center;
     font-size: 80% !important;
+  }
+
+  .contact-us-location {
+    flex-basis: 100%;
+    margin: 0 5%;
+    text-align: center;
+  }
+
+  .location-text-line {
+    font-size: 100%;
+  }
+
+  .contact-us-map {
+    display: none;
   }
 }
 @media screen and (max-width: 991px) {

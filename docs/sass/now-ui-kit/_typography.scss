@@ -267,8 +267,35 @@ p{
 }
 
 .contact-us-text {
-  margin-top: 0 !important;
+  margin-top: 10px !important;
+  font-weight: normal;
+  text-align: center;
+}
+
+.location-text {
+  margin: 20px 0;
+  font-weight: normal;
+  text-align: center;
+}
+
+.location-text-line {
+  margin: 0 !important;
+  font-size: 150%;
   font-weight: lighter;
+  text-align: center;
+}
+
+.location-text-line-title {
+  color: $primary-color;
+  margin: 0 !important;
+  font-size: 150%;
+  font-weight: normal;
+  text-align: center;
+}
+
+.location-text-line-title:hover {
+    color: #0062cc;
+    text-decoration: none !important;
 }
 
 .homepage-description {

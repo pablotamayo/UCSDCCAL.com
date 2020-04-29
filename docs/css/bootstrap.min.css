@@ -212,7 +212,7 @@ a {
 
 a:hover {
     color: #0056b3;
-    text-decoration: underline
+    text-decoration: none;
 }
 
 a:not([href]):not([tabindex]) {
@@ -700,6 +700,8 @@ pre code {
   margin-left: -15px;
   padding: 60px 0;
 }
+
+
 
 .no-gutters {
     margin-right: 0;
