@@ -65,8 +65,8 @@ $info-states-color:          lighten($info-color, 6%) !default;
 $info-color-opacity:         rgba(44, 168, 255, .3) !default;
 $info-color-alert:           rgba(44, 168, 255, .8) !default;
 
-$mcc-green-color:            #009c78 !default;
-$mcc-green-states-color:     lighten($info-color, 6%) !default;
+$mcc-green:                  #009c78 !default;
+$mcc-green-states:           lighten($info-color, 6%) !default;
 
 $cnt-lime-green:             #abcf53 !default;
 

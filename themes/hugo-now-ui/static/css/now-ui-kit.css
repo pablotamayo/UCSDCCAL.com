@@ -1718,6 +1718,42 @@ fieldset[disabled] .navbar .navbar-nav > a.btn.active {
   box-shadow: none;
 }
 
+.btn-mcc-green {
+  background-color: #009c78;
+  color: #FFFFFF;
+}
+.btn-mcc-green:hover, .btn-mcc-green:focus, .btn-mcc-green:active, .btn-mcc-green.active, .btn-mcc-green:active:focus, .btn-mcc-green:active:hover, .btn-mcc-green.active:focus, .btn-mcc-green.active:hover, .show > .btn-mcc-green.dropdown-toggle, .show > .btn-mcc-green.dropdown-toggle:focus, .show > .btn-mcc-green.dropdown-toggle:hover {
+  background-color: #009c78;
+  color: #FFFFFF;
+  box-shadow: none;
+}
+.btn-mcc-green:hover {
+  box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.17);
+}
+.btn-mcc-green.disabled, .btn-mcc-green.disabled:hover, .btn-mcc-green.disabled:focus, .btn-mcc-green.disabled.focus, .btn-mcc-green.disabled:active, .btn-mcc-green.disabled.active, .btn-mcc-green:disabled, .btn-mcc-green:disabled:hover, .btn-mcc-green:disabled:focus, .btn-mcc-green:disabled.focus, .btn-mcc-green:disabled:active, .btn-mcc-green:disabled.active, .btn-mcc-green[disabled], .btn-mcc-green[disabled]:hover, .btn-mcc-green[disabled]:focus, .btn-mcc-green[disabled].focus, .btn-mcc-green[disabled]:active, .btn-mcc-green[disabled].active, fieldset[disabled] .btn-mcc-green, fieldset[disabled] .btn-mcc-green:hover, fieldset[disabled] .btn-mcc-green:focus, fieldset[disabled] .btn-mcc-green.focus, fieldset[disabled] .btn-mcc-green:active, fieldset[disabled] .btn-mcc-green.active {
+  background-color: #009c78;
+  border-color: #009c78;
+}
+.btn-mcc-green.btn-simple {
+  color: #009c78;
+  border-color: #009c78;
+}
+.btn-mcc-green.btn-simple:hover, .btn-mcc-green.btn-simple:focus, .btn-mcc-green.btn-simple:active {
+  background-color: transparent;
+  color: #009c78;
+  border-color: #009c78;
+  box-shadow: none;
+}
+.btn-mcc-green.btn-link {
+  color: #009c78;
+}
+.btn-mcc-green.btn-link:hover, .btn-mcc-green.btn-link:focus, .btn-mcc-green.btn-link:active {
+  background-color: transparent;
+  color: #009c78;
+  text-decoration: none;
+  box-shadow: none;
+}
+
 .btn:disabled, .btn[disabled], .btn.disabled {
   opacity: 0.5;
   filter: alpha(opacity=50);
@@ -2764,12 +2800,13 @@ p {
   font-weight: 700;
   max-width: 250px;
   margin: auto;
+  font-size: 140%;
 }
 
 .workflows-description {
   max-width: 700px;
   margin: 20px auto 20px;
-  font-size: 180%;
+  font-size: 160%;
 }
 
 .workflow-name {
@@ -2777,6 +2814,7 @@ p {
   margin-bottom: 1rem !important;
   font-weight: 400;
   border: #003171 2px;
+  font-size: 160%;
 }
 
 .workflow-description {
@@ -2794,21 +2832,13 @@ p {
 .team-name {
   color: #009c78;
   font-weight: 600;
-  font-size: 170%;
+  font-size: 140%;
   padding: 0;
   text-align: center;
 }
 
 .team-name:hover {
   color: #abcf53;
-}
-
-.active team-name {
-  color: #0060e0;
-}
-
-.collapsible-team-member .active .team-name {
-  color: #0060e0;
 }
 
 .secondary-team-name {
@@ -2818,11 +2848,17 @@ p {
 }
 
 .team-name-description {
-  font-weight: 500 !important;
+  flex-basis: 100%;
   margin-bottom: 12px !important;
   font-size: 105%;
   font-weight: normal !important;
   max-width: 320px;
+}
+
+.team-alumni {
+  color: #666666;
+  font-size: 120%;
+  font-weight: bold;
 }
 
 .thin-text {
@@ -2902,6 +2938,24 @@ p {
   font-weight: lighter;
 }
 
+@media only screen and (min-width: 601px) and (max-width: 900px) {
+  .team-name {
+    font-size: 130%;
+  }
+
+  .team-alumni {
+    font-size: 110%;
+  }
+
+  .resources-names {
+    font-size: 130%;
+  }
+
+  .workflows-description {
+    font-size: 140%;
+    padding: 0 10%;
+  }
+}
 @media only screen and (max-width: 600px) {
   .title {
     font-size: 260%;
@@ -2909,6 +2963,23 @@ p {
 
   .homepage-description {
     font-size: 180%;
+  }
+
+  .team-name {
+    font-size: 120%;
+  }
+
+  .team-alumni {
+    font-size: 100%;
+  }
+
+  .resources-names {
+    font-size: 120%;
+  }
+
+  .workflows-description {
+    font-size: 130%;
+    padding: 0 10%;
   }
 }
 body {
@@ -3545,7 +3616,7 @@ img {
 .team-img {
   padding-top: 80px;
   padding-bottom: 30px;
-  height: 340px;
+  height: 320px;
 }
 
 .publication-journal-image {
