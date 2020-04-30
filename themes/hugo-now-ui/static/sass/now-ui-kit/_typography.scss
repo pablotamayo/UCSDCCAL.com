@@ -209,24 +209,35 @@ p{
 }
 
 .team-name{
+    color: $mcc-green-color;
+    font-weight: 600;
+    font-size: 170%;
+    padding: 0;
+    text-align: center;
+}
+
+.team-name:hover {
+    color: $cnt-lime-green;
+}
+
+.active team-name {
     color: $success-color;
-    margin-bottom: 25px !important;
-    font-weight: 400;
-    font-size: 180%;
+}
+
+.collapsible-team-member .active .team-name {
+    color: $success-color;
 }
 
 .secondary-team-name {
     margin-bottom: 25px !important;
     font-weight: 400;
     font-size: 180%;
-
 }
 
 .team-name-description{
-    color: $primary-color;
     font-weight: 500 !important;
     margin-bottom: 12px !important;
-    font-size: 110%;
+    font-size: 105%;
     font-weight: normal !important;
     max-width: 320px;
 }

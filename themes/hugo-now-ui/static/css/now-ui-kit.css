@@ -1841,6 +1841,26 @@ fieldset[disabled] .btn-link.active {
   padding-top: 10px;
 }
 
+.collapsible-team-member {
+  cursor: pointer;
+  width: 100%;
+  text-align: center;
+  outline: none;
+}
+
+.active, .collapsible-team-member:hover {
+  background-color: #fff;
+  border: none;
+}
+
+.team-member-titles {
+  overflow: hidden;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-top: 10px;
+}
+
 .form-control::-moz-placeholder {
   color: #DDDDDD;
   opacity: 1;
@@ -2772,10 +2792,23 @@ p {
 }
 
 .team-name {
+  color: #009c78;
+  font-weight: 600;
+  font-size: 170%;
+  padding: 0;
+  text-align: center;
+}
+
+.team-name:hover {
+  color: #abcf53;
+}
+
+.active team-name {
   color: #0060e0;
-  margin-bottom: 25px !important;
-  font-weight: 400;
-  font-size: 180%;
+}
+
+.collapsible-team-member .active .team-name {
+  color: #0060e0;
 }
 
 .secondary-team-name {
@@ -2785,10 +2818,9 @@ p {
 }
 
 .team-name-description {
-  color: #003171;
   font-weight: 500 !important;
   margin-bottom: 12px !important;
-  font-size: 110%;
+  font-size: 105%;
   font-weight: normal !important;
   max-width: 320px;
 }
@@ -5403,6 +5435,7 @@ Created using IcoMoon - icomoon.io
 
 .team-member {
   flex-basis: 33%;
+  text-align: center;
 }
 
 .project-logo {
@@ -5560,7 +5593,7 @@ Created using IcoMoon - icomoon.io
   }
 
   .location-text-line {
-    font-size: 100%;
+    font-size: 120%;
   }
 
   .contact-us-map {

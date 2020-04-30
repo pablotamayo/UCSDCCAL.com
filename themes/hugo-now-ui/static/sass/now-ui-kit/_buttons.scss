@@ -183,3 +183,23 @@
   flex-wrap: wrap;
   padding-top: 10px;
 }
+
+.collapsible-team-member {
+    cursor: pointer;
+    width: 100%;
+    text-align: center;
+    outline: none;
+  }
+  
+  .active, .collapsible-team-member:hover {
+    background-color: #fff;
+    border: none;
+  }
+
+  .team-member-titles {
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 10px;
+  }
