@@ -158,6 +158,32 @@ p{
     }
 }
 
+.homepage-banner-title {
+    font-weight: 700;
+    font-size: 300%;
+    margin: 6% 0;
+}
+
+.homepage-banner-secondary-title {
+    margin: 0;
+    padding: 10px 0;
+    font-weight: 600;
+    font-size: 160%;
+    color: #999999;
+}
+
+.ctd2-banner-title {
+    color: #cc8a21;
+}
+
+.gcbsr-banner-title {
+    color: lighten($mcc-green, 5%);
+}
+
+.ciapm-ucsd-banner-title {
+    color: #5b9ac7;
+}
+
 
 .homepage-title {
     text-align: center;
