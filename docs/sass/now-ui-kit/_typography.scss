@@ -360,6 +360,10 @@ p{
         font-size: 140%;
         padding: 0 10%;
 }
+    .homepage-location {
+      display: none;
+   }
+
 }
 
 @media only screen and (max-width:600px) {
@@ -381,5 +385,8 @@ p{
   .workflows-description {
       font-size: 130%;
       padding: 0 10%;
-}
+    }
+  .homepage-location {
+      display: none;
+   }
 }
