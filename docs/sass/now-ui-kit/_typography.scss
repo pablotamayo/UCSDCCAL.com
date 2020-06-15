@@ -160,8 +160,9 @@ p{
 
 .homepage-banner-title {
     font-weight: 700;
-    font-size: 300%;
-    margin: 6% 0;
+    font-size: 330%;
+    line-height: 1.4em;
+    margin: 14% 0 4% 0;
 }
 
 .homepage-banner-secondary-title {
@@ -201,6 +202,17 @@ p{
     padding: 30px 0;
 }
 
+.project-title {
+  flex-basis: 75%;
+  text-align: left;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.homepage-grant-title {
+    font-weight: 700;
+    font-size: 80%;
+}
 
 .resources-names {
     color: $warning-color;
@@ -344,6 +356,7 @@ p{
 
 .homepage-location {
     font-weight: lighter;
+    font-size: 140%;
 }
 
 
