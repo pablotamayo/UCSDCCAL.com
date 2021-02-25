@@ -1,16 +1,18 @@
 <!doctype html>
 <html lang="en">
-  {{partial "head" . }}
+  {{ partial "head" . }}
 
 	<body class="{{ .Params.class | default "profile-page" }} sidebar-collapse">
     {{ partial "nav" . }}
 
     <div class="{{ .Params.wrapper | default "wrapper" }}">
 
-        <div class="page-header {{ .Params.headerstyle | default "page-header-small"}}" >
-            <div class="page-header-image" data-parallax="true" style="background-image: url("img/cnt_building.jpg");">
-            </div>
+        <div class="page-header {{ .Params.headerstyle | default "page-header-small"}}">
+          
+            <div class="page-header-image" data-parallax="true" style="background-image: url(/img/cnt_building.jpg)">
 
+            </div>
+           
             {{ block "title" . }}
             {{ end }}
 
@@ -23,11 +25,12 @@
 	        {{ end }}
 
         </div>
+
     </div>
 
       {{ partial "footer" . }}
 
-  </body>
+    </body>
 
 {{partial "javascript" . }}
 
