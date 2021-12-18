@@ -1,91 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://ucsdccal.org/categories/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ucsdccal.org/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ucsdccal.org/tags/example/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ucsdccal.org/2017/11/29/example-post/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ucsdccal.org/categories/hugo/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ucsdccal.org/post/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ucsdccal.org/categories/r/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ucsdccal.org/tags/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ucsdccal.org/2016/12/30/a-plain-markdown-post/</loc>
     <lastmod>2016-12-30T21:49:57-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ucsdccal.org/2015/01/01/lorem-ipsum/</loc>
     <lastmod>2015-01-01T13:09:13-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ucsdccal.org/profile/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ucsdccal.org/template/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ucsdccal.org/contact_us/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ucsdccal.org/ucsd_school_of_medicine/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ucsdccal.org/ctd2/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ucsdccal.org/publications/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ucsdccal.org/resources/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ucsdccal.org/team/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ucsdccal.org/ucsd_moores_cancer_center/</loc>
   </url>
-  
 </urlset>
