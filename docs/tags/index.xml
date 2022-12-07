@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on UCSD CCAL</title>
-    <link>https://ucsdccal.org/tags/</link>
+    <link>https://ucsdccal.com/tags/</link>
     <description>Recent content in Tags on UCSD CCAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://ucsdccal.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://ucsdccal.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>example</title>
-      <link>https://ucsdccal.org/tags/example/</link>
+      <link>https://ucsdccal.com/tags/example/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ucsdccal.org/tags/example/</guid>
+      <guid>https://ucsdccal.com/tags/example/</guid>
       <description></description>
     </item>
     

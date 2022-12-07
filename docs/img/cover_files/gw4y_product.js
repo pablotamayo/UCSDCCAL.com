@@ -30254,15 +30254,13 @@ $(document).ready(function () {
               height: e.outerHeight(!0),
               float: e.css("float"),
             },
-            s = t("<div></div>")
-              .addClass("ui-effects-wrapper")
-              .css({
-                fontSize: "100%",
-                background: "transparent",
-                border: "none",
-                margin: 0,
-                padding: 0,
-              }),
+            s = t("<div></div>").addClass("ui-effects-wrapper").css({
+              fontSize: "100%",
+              background: "transparent",
+              border: "none",
+              margin: 0,
+              padding: 0,
+            }),
             n = { width: e.width(), height: e.height() },
             a = document.activeElement;
           try {
@@ -47865,15 +47863,13 @@ $(document).ready(function () {
               height: e.outerHeight(!0),
               float: e.css("float"),
             },
-            s = t("<div></div>")
-              .addClass("ui-effects-wrapper")
-              .css({
-                fontSize: "100%",
-                background: "transparent",
-                border: "none",
-                margin: 0,
-                padding: 0,
-              }),
+            s = t("<div></div>").addClass("ui-effects-wrapper").css({
+              fontSize: "100%",
+              background: "transparent",
+              border: "none",
+              margin: 0,
+              padding: 0,
+            }),
             n = { width: e.width(), height: e.height() },
             a = document.activeElement;
           try {
@@ -49308,14 +49304,12 @@ var utilities = {
       c
         ? ((d = this.getOrigPosition()), a.openOpacity && (d.opacity = 0.1))
         : "fade" === e && (d.opacity = 0.1);
-      b.wrap
-        .css(d)
-        .animate(k, {
-          duration: "none" === e ? 0 : a.openSpeed,
-          easing: a.openEasing,
-          step: c ? this.step : null,
-          complete: b._afterZoomIn,
-        });
+      b.wrap.css(d).animate(k, {
+        duration: "none" === e ? 0 : a.openSpeed,
+        easing: a.openEasing,
+        step: c ? this.step : null,
+        complete: b._afterZoomIn,
+      });
     },
     zoomOut: function () {
       var a = b.current,
@@ -49345,13 +49339,11 @@ var utilities = {
           : ((e[g] = w(l(e[g]) + 200)), (c[g] = "-=200px")));
       "none" === d
         ? b._afterZoomIn()
-        : b.wrap
-            .css(e)
-            .animate(c, {
-              duration: a.nextSpeed,
-              easing: a.nextEasing,
-              complete: b._afterZoomIn,
-            });
+        : b.wrap.css(e).animate(c, {
+            duration: a.nextSpeed,
+            easing: a.nextEasing,
+            complete: b._afterZoomIn,
+          });
     },
     changeOut: function () {
       var a = b.previous,
@@ -50207,23 +50199,21 @@ var utilities = {
         (r._isFilteredOut = !0),
         (r._filteringOut = !1),
         (r._filteringIn = !1),
-        r
-          .css(i.options.filterOutCss)
-          .css({
-            "-webkit-backface-visibility": "hidden",
-            perspective: "1000px",
-            "-webkit-perspective": "1000px",
-            "-webkit-transform-style": "preserve-3d",
-            position: "absolute",
-            transition:
-              "all " +
-              i.options.animationDuration +
-              "s " +
-              i.options.easing +
-              " " +
-              r._calcDelay() +
-              "ms",
-          }),
+        r.css(i.options.filterOutCss).css({
+          "-webkit-backface-visibility": "hidden",
+          perspective: "1000px",
+          "-webkit-perspective": "1000px",
+          "-webkit-transform-style": "preserve-3d",
+          position: "absolute",
+          transition:
+            "all " +
+            i.options.animationDuration +
+            "s " +
+            i.options.easing +
+            " " +
+            r._calcDelay() +
+            "ms",
+        }),
         r.on(
           "transitionend webkitTransitionEnd oTransitionEnd MSTransitionEnd",
           function () {

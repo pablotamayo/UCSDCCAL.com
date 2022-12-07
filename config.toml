@@ -1,4 +1,4 @@
-baseURL = "https://ucsdccal.org"
+baseURL = "https://ucsdccal.com"
 languageCode = "en-us"
 theme = "hugo-now-ui"
 title = "UCSD CCAL"

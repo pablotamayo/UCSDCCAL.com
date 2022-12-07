@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on UCSD CCAL</title>
-    <link>https://ucsdccal.org/categories/</link>
+    <link>https://ucsdccal.com/categories/</link>
     <description>Recent content in Categories on UCSD CCAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://ucsdccal.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://ucsdccal.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hugo</title>
-      <link>https://ucsdccal.org/categories/hugo/</link>
+      <link>https://ucsdccal.com/categories/hugo/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ucsdccal.org/categories/hugo/</guid>
+      <guid>https://ucsdccal.com/categories/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>r</title>
-      <link>https://ucsdccal.org/categories/r/</link>
+      <link>https://ucsdccal.com/categories/r/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ucsdccal.org/categories/r/</guid>
+      <guid>https://ucsdccal.com/categories/r/</guid>
       <description></description>
     </item>
     

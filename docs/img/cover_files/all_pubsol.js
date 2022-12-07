@@ -8268,17 +8268,14 @@ var oldJQ = null,
             return this;
           },
           truncate: function () {
-            this.$inner = this.$dot
-              .wrapInner("<div />")
-              .children()
-              .css({
-                display: "block",
-                height: "auto",
-                width: "auto",
-                border: "none",
-                padding: 0,
-                margin: 0,
-              });
+            this.$inner = this.$dot.wrapInner("<div />").children().css({
+              display: "block",
+              height: "auto",
+              width: "auto",
+              border: "none",
+              padding: 0,
+              margin: 0,
+            });
             this.$inner.empty().append(this.originalContent.clone(!0));
             this.maxHeight = this._getMaxHeight();
             var a = !1;

@@ -776,16 +776,14 @@ var CWParser_informaworld = {
               "" == a && c.find("a.cw-openPdfReader").hide(),
               c.find(".cw-btnContainer").data("metadata", h));
           } else
-            c
-              .find(".accessIconWrapper")
-              .before(
-                C.addButton({
-                  pdfUrl: a,
-                  index: 0,
-                  inline: !0,
-                  class: " tandf-detail tip_bm",
-                })
-              ),
+            c.find(".accessIconWrapper").before(
+              C.addButton({
+                pdfUrl: a,
+                index: 0,
+                inline: !0,
+                class: " tandf-detail tip_bm",
+              })
+            ),
               "" == a && c.find("a.cw-openPdfReader").hide(),
               c.find(".cw-btnContainer").data("metadata", h);
         else
@@ -1232,16 +1230,14 @@ var CWParser_informaworld = {
                   "" == s && f.find("a.cw-openPdfReader").hide(),
                   f.find(".cw-btnContainer").data("metadata", w));
               } else
-                f
-                  .find(".access:first .accessIconWrapper")
-                  .before(
-                    C.addButton({
-                      pdfUrl: s,
-                      index: e,
-                      inline: !0,
-                      class: " tandf-list tip_bm",
-                    })
-                  ),
+                f.find(".access:first .accessIconWrapper").before(
+                  C.addButton({
+                    pdfUrl: s,
+                    index: e,
+                    inline: !0,
+                    class: " tandf-list tip_bm",
+                  })
+                ),
                   "" == s && f.find("a.cw-openPdfReader").hide(),
                   f.find(".cw-btnContainer").data("metadata", w);
             else
@@ -1418,16 +1414,14 @@ var CWParser_informaworld = {
                   "" == s && f.find("a.cw-openPdfReader").hide(),
                   f.find(".cw-btnContainer").data("metadata", h));
               } else
-                f
-                  .find(".access:first .accessIconWrapper")
-                  .before(
-                    C.addButton({
-                      pdfUrl: s,
-                      index: e,
-                      inline: !0,
-                      class: " tandf-list tip_bm",
-                    })
-                  ),
+                f.find(".access:first .accessIconWrapper").before(
+                  C.addButton({
+                    pdfUrl: s,
+                    index: e,
+                    inline: !0,
+                    class: " tandf-list tip_bm",
+                  })
+                ),
                   "" == s && f.find("a.cw-openPdfReader").hide(),
                   f.find(".cw-btnContainer").data("metadata", h);
             else
@@ -1605,16 +1599,14 @@ var CWParser_informaworld = {
                   "" == s && f.find("a.cw-openPdfReader").hide(),
                   f.find(".cw-btnContainer").data("metadata", h));
               } else
-                f
-                  .find(".access:first .accessIconWrapper")
-                  .before(
-                    C.addButton({
-                      pdfUrl: s,
-                      index: e,
-                      inline: !0,
-                      class: " tandf-list tip_bm",
-                    })
-                  ),
+                f.find(".access:first .accessIconWrapper").before(
+                  C.addButton({
+                    pdfUrl: s,
+                    index: e,
+                    inline: !0,
+                    class: " tandf-list tip_bm",
+                  })
+                ),
                   "" == s && f.find("a.cw-openPdfReader").hide(),
                   f.find(".cw-btnContainer").data("metadata", h);
             else
@@ -1746,16 +1738,14 @@ var CWParser_informaworld = {
                     s.find(".cw-btnContainer").data("metadata", p);
                 }
               } else
-                s
-                  .find(".access:first .accessIconWrapper ")
-                  .before(
-                    C.addButton({
-                      pdfUrl: o,
-                      index: e,
-                      inline: !0,
-                      class: " tandf-list tip_bm",
-                    })
-                  ),
+                s.find(".access:first .accessIconWrapper ").before(
+                  C.addButton({
+                    pdfUrl: o,
+                    index: e,
+                    inline: !0,
+                    class: " tandf-list tip_bm",
+                  })
+                ),
                   "" == o && s.find("a.cw-openPdfReader").hide(),
                   s.find(".cw-btnContainer").data("metadata", p);
             else
